@@ -43,7 +43,7 @@ module.exports = filesConfiguration.map(entry => (
 									//"corejs": 3,
 									//"useBuiltIns": "usage"
 								}]
-		    				]
+							]
 						}
 					}
 				}
